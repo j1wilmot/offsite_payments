@@ -15,9 +15,9 @@ The addition of your gateway to offsite_payments does not guarantee placement wi
 2. Markets served by this integration
 3. List of major supported payment methods
 4. Your most recent Certificate of PCI Compliance
-5. Reason that the [Universal API](https://github.com/Shopify/offsite_payments/blob/master/lib/offsite_payments/integrations/universal.rb)* cannot be used for you integraiton. 
-*The Universal API defines standard set of requests and callbacks that can be used to integrate with Shopify. A sample app and documentation are hosted here. This is the route we recommend for all future integrations. 
+5. Reason that the [Universal API](https://github.com/Shopify/offsite_payments/blob/master/lib/offsite_payments/integrations/universal.rb)* cannot be used for you integration.
 
+*The Universal API defines standard set of requests and callbacks that can be used to integrate with Shopify. A sample app and documentation are hosted here. This is the route we recommend for all future integrations. 
 
 ## Installation
 
